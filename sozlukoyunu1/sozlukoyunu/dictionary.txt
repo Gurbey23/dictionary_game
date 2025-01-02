@@ -1,0 +1,126 @@
+access modifier
+erisim belirleyici
+address
+adres
+algorithm
+algoritma
+allocation
+ayirma
+array
+dizi
+boolean
+ikili
+class
+sinif
+compile time
+derleme zamani
+compiler
+derleyici
+complement
+tumleyen
+constructor
+kurucu
+data abstraction
+veri soyutlama
+data type
+veri turu
+deallocate
+serbest birakma
+debugging
+hata ayiklama
+destructor
+yikici
+dynamic array
+dinamik dizi
+editor
+metin duzenleyici
+encapsulation
+kapsulleme
+enumeration
+numaralandirma
+exception handling
+istisna yakalama
+exception
+istisna
+flow chart
+akis diyagrami
+function
+fonksiyon
+global
+global
+hardware
+donanim
+header file
+baslik dosyasi
+index
+indeks
+indirect
+dolayli
+integer
+tamsayi
+library
+kutuphane
+lifetime
+yasam suresi
+lokal
+yerel
+loop
+dongu
+machine code
+makine kodu
+maintenance
+bakim
+memory
+hafiza
+method
+metot
+namespace
+isim uzayi
+nested
+ic ice
+object oriented programming
+nesneye dayali programlama
+overloading
+asiri yukleme
+parameter
+parametre
+pointer
+isaretci
+programming language
+programlama dili
+programming
+programlama
+prototype
+prototip
+pseudocode
+sozde kod
+random
+rastgele
+recursive
+oz yinelemeli
+reference
+referans
+run-time
+calisma zamani
+scope
+kapsam
+sequential
+sirali
+software
+yazilim
+sorting
+siralama
+source code
+kaynak kod
+source code
+kaynak kod
+statik array
+statik dizi
+string
+karakter katari
+syntax
+soz dizimi
+unsigned
+isaretsiz
+variable
+degisken
